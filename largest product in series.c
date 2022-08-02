@@ -66,5 +66,4 @@ int32_t main()
 	printf("Problem 8: %" PRIu64 "\n", greatest);
 	return 0;
 }
-Footer
-© 2022 GitHub, Inc.
+
