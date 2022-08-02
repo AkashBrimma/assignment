@@ -1,4 +1,4 @@
-/*2520 is the smallest number that can be divided by each of the numbers from 1 to 10
+/*5.2520 is the smallest number that can be divided by each of the numbers from 1 to 10
 without any remainder. What is the smallest positive number that is evenly divisible by all of
 the numbers from 1 to 20? Ans: 232792560*/
 
@@ -35,5 +35,3 @@ unsigned long lcm(unsigned long a,unsigned long b)
     unsigned long long p=(unsigned long long)a*b;
     return p/gcd(a,b);
 }                               
-Footer
-© 2022 GitHub, Inc.
